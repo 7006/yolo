@@ -2,4 +2,6 @@
 
 - Take the Red Pill
 - [customizing elixirs iex](https://samuelmullen.com/articles/customizing_elixirs_iex)
+- replit
+- add book source code
   
