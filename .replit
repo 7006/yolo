@@ -1,5 +1,4 @@
-entrypoint = "main.exs"
-run = "elixir main.exs"
+run = "iex"
 
 [env]
 HEX_HOME = "$REPL_HOME/.hex"
